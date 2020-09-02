@@ -62,9 +62,14 @@ namespace EjercicioClase2_9
                             }
                             else
                             {
-                                return  false;
+                                return true;
                             }
                         }
+                        else
+                        {
+                            return false;
+                        }
+                        
                     }
                     else
                     {
