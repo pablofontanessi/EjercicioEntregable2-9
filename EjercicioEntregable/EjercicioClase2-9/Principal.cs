@@ -39,9 +39,9 @@ namespace EjercicioClase2_9
                         }
                         else
                         {
-                            return  true;
+                            return  false;
                         }
-
+                        return true;
                     }
                     else
                     {
@@ -62,8 +62,9 @@ namespace EjercicioClase2_9
                             }
                             else
                             {
-                                return true;
+                                return false;
                             }
+                            return true;
                         }
                         else
                         {
